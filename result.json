@@ -1,0 +1,22 @@
+{
+    "Abhi": {
+        "Average": 100.0,
+        "Status": "Pass",
+        "Grade": "A"
+    },
+    "Shivam": {
+        "Average": 52.0,
+        "Status": "Pass",
+        "Grade": "B"
+    },
+    "Nikhil": {
+        "Average": 31.0,
+        "Status": "Fail",
+        "Grade": "Fail"
+    },
+    "Ravi": {
+        "Average": 27.666666666666668,
+        "Status": "Fail",
+        "Grade": "Fail"
+    }
+}
